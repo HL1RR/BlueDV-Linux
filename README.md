@@ -16,4 +16,4 @@ $rm -r -f BlueDV-Linux
 
 $cd ..
 
-$menu
+$menu   or ./menu
