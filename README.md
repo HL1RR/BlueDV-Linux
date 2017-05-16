@@ -1,4 +1,4 @@
-# BlueDV-Linux	
+# BlueDV-Linux	MENU Program
 
 $mkdir /home/pi/bin
 
