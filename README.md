@@ -2,8 +2,18 @@
 
 $mkdir /home/pi/bin
 
-$cd /home/pi/bin 
+$cd /home/pi/bin
 
-$tar xvf xlxmenu
+$git clone https://github.com/HL1RR/BlueDV-Linux.git
+
+$cd BlueDV-Linux
+
+$tar xvf xlxmenu.tar
+
+$mv menu ../
+
+$rm -r -f BlueDV-Linux
+
+$cd ..
 
 $menu
